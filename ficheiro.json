@@ -1,0 +1,1 @@
+{"alfabeto": ["1", "0"], "estados": ["c", "b", "a", "d"], "estadoInicial": "a", "estadosAceitacao": ["b"], "tabelaTrans": {"a 0": "b", "a 1": "d", "b 0": "b", "b 1": "c", "c 0": "b", "c 1": "c", "d 0": "d", "d 1": "d"}}
